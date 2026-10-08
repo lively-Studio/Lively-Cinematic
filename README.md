@@ -101,7 +101,7 @@
 
 ## 许可
 
-GNU General Public License v3.0 · [github.com/Open-code-Studio](https://github.com/Open-code-Studio)
+GNU General Public License v3.0 · Lively-Studio
 
 ---
 
